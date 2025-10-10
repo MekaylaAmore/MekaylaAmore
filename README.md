@@ -5,7 +5,7 @@ Hello! I'm **Mekayla Amore De Wee**, a passionate coder combining creativity, cu
 ---
 
 ## 🌟 About Me
-- 🎨 **Hobbies:** Coding cute projects, exploring UX/UI designs, and building personal side quests.  
+- 🎨 **Hobbies:** Coding projects, exploring UX/UI designs, and building personal side quests.  
 - 🌈 **Philosophy:** Code should be clean, fun, and make life brighter. 🌟  
 - 💻 **Goal:** Grow as a full-stack developer and create impactful software solutions.
 
