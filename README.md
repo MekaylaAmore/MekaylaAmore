@@ -1,5 +1,9 @@
+# 👋 Welcome to My Profile! 
+
 Hello! I'm **Mekayla Amore De Wee**
 🚀 Junior Software Developer | Full-Stack in Training | Diploma in IT (Software Development – Distinction)
+
+---
 
 I’m a Junior Software Developer with hands-on experience building full-stack applications and contributing to real world systems. I work across frontend and backend, enjoy problem-solving, and love turning ideas into clean, functional software.
 
@@ -27,6 +31,7 @@ I’m a Junior Software Developer with hands-on experience building full-stack a
 **Software Testing:** Unit Testing, JUnit, Integration Testing, UI Functional Testing  
 
 **Cloud Platforms:** Azure, AWS Fundamentals, CI/CD Concepts, Git & GitHub  
+
 **Tools & Other Competencies:** VS Code, Android Studio Jira, Trello, Figma, UI/UX Principles, Cybersecurity Fundamentals
 
 ---
@@ -37,6 +42,8 @@ I’m a Junior Software Developer with hands-on experience building full-stack a
 - Improving backend skills and API development  
 - Learning AWS fundamentals  
 - Building production-ready apps and writing better tests
+
+---
 
 ## 🌸 Fun Facts
 - I love mixing creativity with logic  
